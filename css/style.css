@@ -1,0 +1,19 @@
+body{
+	
+	margin:auto;
+}
+main{
+	height:90px;
+	width:60px;
+	border:1px solid green;
+}
+#h2{
+	color:blue;
+	text-align:center;
+}
+.email{
+	width:80px;
+	height:20px;
+	color:blue;
+	margin-left:40px;
+}
